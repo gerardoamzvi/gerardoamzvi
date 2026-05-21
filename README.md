@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Gérardo 👋
+
+I'm an engineering student based in France, interested in AI systems, embedded software and automation.
+
+I enjoy building practical projects that combine software, hardware and real-world constraints — from computer vision and STM32-based systems to backend development, workflows automation and LLM integrations.
+
+## Interests
+
+* AI & intelligent systems
+* Embedded systems
+* Backend engineering
+* Automation & tooling
+* Computer vision
+* Systems integration
+
+## Tech I work with
+
+Python • TypeScript • Rust • FastAPI • Docker • Linux • Git • VsCode
+
+## Current focus
+
+* AI systems & agentic workflows
+* Embedded AI
+* Backend architecture
+* Learning more about ML systems and LLM infrastructure
+
+Always learning by building.
