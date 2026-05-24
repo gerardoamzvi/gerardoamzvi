@@ -31,7 +31,7 @@ I enjoy building practical projects that combine software, hardware and real-wor
 
 ## Tech I work with
 
-Python • TypeScript • Rust • FastAPI • Docker • Linux • Git • VsCode
+Python • TypeScript • FastAPI • Docker • Linux • Git • VsCode
 
 ## Current focus
 
