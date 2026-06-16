@@ -41,3 +41,17 @@ Python • TypeScript • FastAPI • Docker • Linux • Git • VsCode
 * Learning more about ML systems and LLM infrastructure
 
 Always learning by building.
+
+## 🌟 Featured Projects
+
+**🎹 Hall Effect Keyboard (KBHE)** — C · STM32 · TypeScript · Tauri
+Custom 75% ISO keyboard with per-key analog sensing, desktop configurator and USB HID communication
+→ [github.com/Fefe-Nayz/kbhe-monorepo](https://github.com/Fefe-Nayz/kbhe-monorepo) ⭐ 7
+
+**🚗 Autonomous Robot (ByteRacer)** — Python · YOLO · OpenCV · Raspberry Pi
+Real-time sign detection robot with LLM-powered natural language control and live video streaming
+→ [github.com/Fefe-Nayz/byteracer](https://github.com/Fefe-Nayz/byteracer) ⭐ 3
+
+**🔑 Password API** — Python · FastAPI
+REST API for password generation and strength checking
+→ [github.com/gerardoamzvi/passwordapi](https://github.com/gerardoamzvi/passwordapi)
