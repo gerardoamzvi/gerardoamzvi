@@ -42,7 +42,7 @@ Python • TypeScript • FastAPI • Docker • Linux • Git • VsCode
 
 Always learning by building.
 
-## 🌟 Featured Projects
+## Featured Projects
 
 **🎹 Hall Effect Keyboard (KBHE)** — C · STM32 · TypeScript · Tauri
 Custom 75% ISO keyboard with per-key analog sensing, desktop configurator and USB HID communication
